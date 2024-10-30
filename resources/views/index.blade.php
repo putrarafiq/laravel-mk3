@@ -28,7 +28,7 @@
 
     <div class="navbar-nav">
       <a href="#home">Home</a>
-      <a href="#about">Tentang Kami</a>
+      <a href="#about"> <h3>Baca Selengkapnya....</h3></a>  
       <a href="#menu">Menu</a>
       <a href="#products">Produk</a>
       <a href="#contact">Kontak</a>
